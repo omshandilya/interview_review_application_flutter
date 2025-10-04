@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # interview
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# interview_review_application_flutter
+The well implemented fronted application of the interview review backend
+>>>>>>> c209141c74692ba2156afc76933cf3f393dee115
